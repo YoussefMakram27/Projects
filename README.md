@@ -1,4 +1,4 @@
-Diffrent shapes of pyramids using C programming
+Projects in C programming
 
 <!---
 YoussefMakram27/YoussefMakram27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
