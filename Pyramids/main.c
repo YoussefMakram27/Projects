@@ -56,7 +56,7 @@ int main()
     pyramid_24 ();
     pyramid_25 ();
     */
-    pyramid_26 ();
+    pyramid_1 ();
     return 0;
 }
 void pyramid_1  (void)
@@ -65,7 +65,7 @@ void pyramid_1  (void)
     {
         for(j=1;j<=i;j++)
         {
-            printf("*");
+            printf("$ ");
         }
         printf("\n");
     }
