@@ -72,7 +72,7 @@ void pyramid_1  (void)
 }
 void pyramid_2  (void)
 {
-    for(i=1;i<=5;i++)
+    for(i=1;i<=7;i++)
     {
         for(j=5;j>=i;j--)
         {
