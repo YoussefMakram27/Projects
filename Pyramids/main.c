@@ -61,7 +61,7 @@ int main()
 }
 void pyramid_1  (void)
 {
-    for(i=1;i<=5;i++)
+    for(i=1;i<=6;i++)
     {
         for(j=1;j<=i;j++)
         {
