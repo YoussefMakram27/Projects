@@ -65,7 +65,7 @@ void pyramid_1  (void)
     {
         for(j=1;j<=i;j++)
         {
-            printf("*");
+            printf("#");
         }
         printf("\n");
     }
