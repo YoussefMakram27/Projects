@@ -1,4 +1,4 @@
-Projects in C programming
+Projects in C programming and Embedded Systems.
 
 <!---
 YoussefMakram27/YoussefMakram27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
